@@ -11,8 +11,8 @@
                                [:name "Elango Cheran"]
                                [:email "elango@google.com"]
                                [:timezone "-8"]]]
-  :dependencies [[org.clojure/clojure "1.7.0"]
-                 [org.clojure/clojurescript "1.7.170"]
+  :dependencies [[org.clojure/clojure "1.8.0"]
+                 [org.clojure/clojurescript "1.8.51"]
                  [quil "2.2.6"]]
 
   :source-paths ["src/cljc" "src/cljs"]
